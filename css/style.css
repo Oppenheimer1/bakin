@@ -1,5 +1,5 @@
 body {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Didot', sans-serif;
   color: #FAF3BC;
   background: black;
 }
@@ -16,7 +16,7 @@ h1 {
 
 h2 {
   font-size: 1.500em;
-  color: #0DC2FF;
+  color: #F5F5DC;
 }
 
 .btn {
